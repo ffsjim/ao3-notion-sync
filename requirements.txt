@@ -1,0 +1,5 @@
+notion-client
+ao3-api
+requests
+python-dotenv
+schedule
